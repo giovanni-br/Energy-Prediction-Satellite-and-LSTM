@@ -1,5 +1,8 @@
 # Energy Consumption Prediction in Rio Grande do Sul using Night-Time Satellite Light Images
 
+![energy_prediction](https://github.com/user-attachments/assets/a5566b3a-1ea9-411d-9f24-f4a95117bd2a)
+
+
 
 ## Project Overview
 
